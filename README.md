@@ -1,0 +1,1 @@
+Değiştirilmesi gereken şeyler özelleştirme için yorumla koda yazılmıştır kendi mapinizi hızlıca ekleyebilirsiniz

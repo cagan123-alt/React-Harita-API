@@ -1,0 +1,13 @@
+/* Bu kısmı eklemeyi unutmayın class adınıza göre değiştirebilirsinizz ancak MapContainera height ve width vermezseniz göremezsiniz*/
+
+
+.hazir-map {
+  height: 100vh;
+  width: 100vw;
+}
+
+.leaflet-container {
+  font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+  
+  
